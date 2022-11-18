@@ -11,4 +11,4 @@ I will try hard to achieve something that the club can vaunt-off. I will give my
 
 
 # Do you have any feedback on the selection process?
-This might seem like beating around the bush but , being new to linux and its commands, without prior knowledge about those commands, make it difficult for tryouts to join the club. Anyways in the end it all adds up , because discovering these things on their own makes it easier in the fututre. HARDWORK ALWAYS PAYSOFF.
+This might seem like beating around the bush but , being new to linux and its commands, without prior knowledge about those commands, make it difficult for tryouts to join the club. Anyways progressive learning helpsand in the end it all adds up , because discovering these things on their own makes working easier over time. HARDWORK ALWAYS PAYSOFF.
