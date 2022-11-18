@@ -13,7 +13,7 @@ remove rm;
 open open or touch;
 for copying,removing directories cp -r , rm -r;
 for overwrite check cp -i;
-move, copy  directories mv <dir_name>/ ./<dir dest.>/;
+move, copy  directories mv <dir_name>/ ./dir/;
   
   git: https://www.blogger.com/blog/posts/7674270757009873995
                                                  
