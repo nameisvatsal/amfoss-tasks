@@ -10,7 +10,7 @@ go back cd ..;
 copy cp;
 move mv;
 remove rm;
-open open or touch;
+open cat/open/touch;
 for copying,removing directories cp -r , rm -r;
 for overwrite check cp -i;
 move, copy  directories mv <dir_name>/ ./dir/;
